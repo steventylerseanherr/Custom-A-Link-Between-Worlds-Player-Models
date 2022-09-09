@@ -1,5 +1,5 @@
 # Custom-A-Link-Between-Worlds-Player-Models
-this is a repo i created so people dont have to deal with gamebananas awful upload procidure
+this is a repo i created so people dont have to deal with gamebananas awful upload procedure
 
 for installation.
 just copy the 00040000000EC300 inside the models folder that you want and paste it in Citra\load\mods for citra or luma\titles for hardware
