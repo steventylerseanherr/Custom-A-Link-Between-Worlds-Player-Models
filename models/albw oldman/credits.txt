@@ -1,0 +1,8 @@
+model credits:
+	nintendo
+mod made by:
+	steven tyler sean herr
+
+extra credits:
+	killzgaming for creating ctrstudio
+	and all the people that looked into the bch model format in the past
